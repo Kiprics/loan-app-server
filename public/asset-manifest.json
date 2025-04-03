@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a221b312.css",
+    "main.js": "/static/js/main.49683ce6.js",
+    "static/media/nowina-2.ttf": "/static/media/nowina-2.01c7011e1a4fd85a98fc.ttf",
+    "static/media/wolyami.ttf": "/static/media/wolyami.8b1eaea3cbd147b9480a.ttf",
+    "index.html": "/index.html",
+    "main.a221b312.css.map": "/static/css/main.a221b312.css.map",
+    "main.49683ce6.js.map": "/static/js/main.49683ce6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a221b312.css",
+    "static/js/main.49683ce6.js"
+  ]
+}
